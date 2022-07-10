@@ -53,7 +53,7 @@ Using these two methods you can see their respective StyleSpace edits in the str
     
 ## Utilizing GANs to Study Human Face Perception
 
-![Presentation image](experiment.png)
+![Teaser image](experiment.png)
 Abstract: *A manipulation of the latent code of an image produced by a Generative Adversarial network (GAN) can bring localized or
 general aspect changes to the initial image. Here, we are focusing on GAN-generated photo-realistic face images.
 Through a psycho-visual experiment, we perform a study to determine, in relation to latent space properties, to what extent humans
